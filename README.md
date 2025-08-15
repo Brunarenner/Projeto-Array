@@ -11,6 +11,8 @@ Somar Todos os Itens: Calcula o valor total de todos os produtos do menu.
 Filtrar Itens Veganos: Mostra apenas as opções de hambúrgueres veganos.
 
 💻 Tecnologias Utilizadas
+
+
 HTML5
 
 CSS3
